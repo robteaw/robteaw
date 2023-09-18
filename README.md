@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Robert Tea 👋
 
-<!--
-**robteaw/robteaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer focus on frontend.
 
-Here are some ideas to get you started:
+\
+**Technology Stack:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://icons-for-free.com/iconfiles/png/512/javascript-1331550889870124968.png" width="35" height="35" /> <img src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" width="35" height="35" />
+
+\
+**Portfolio** 
+
+[Link](robertwtea.com)
+
+**Learn Code**
+
+[Link](https://delicate-swan-c2acc8.netlify.app)
+
