@@ -4,9 +4,13 @@
 I'm a web developer focus on frontend.
 
 \
-**Technology Stack:**
+**Technology Stack:** 
 
-<img src="https://icons-for-free.com/iconfiles/png/512/javascript-1331550889870124968.png" width="35" height="35" /> <img src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" width="35" height="35" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robteaw&layout=compact)
 
 \
 **Websites:**
@@ -14,5 +18,9 @@ I'm a web developer focus on frontend.
 
 [**Portfolio**](https://robertwtea.com)
 
-[**Learn Code**](https://delicate-swan-c2acc8.netlify.app)
+[**Learn Code**](https://delicate-swan-c2acc8.netlify.app) with a cup of <img src="https://cdn-icons-png.flaticon.com/512/5303/5303997.png" width="30" height="30" />
 
+<!-- 
+https://github.com/Ileriayo/markdown-badges 
+https://github.com/anuraghazra/github-readme-stats
+-->
