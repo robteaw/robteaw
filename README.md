@@ -1,5 +1,4 @@
-### Hi, I'm Robert Tea 
-<img src="https://raw.githubusercontent.com/robteaw/portfolio/master/public/robert.png" width="50" height="50" />
+**Hi, I'm Robert Tea** <img src="https://raw.githubusercontent.com/robteaw/portfolio/master/public/robert.png" width="30" height="30" />
 
 I'm a web developer focus on frontend.
 
@@ -10,7 +9,6 @@ I'm a web developer focus on frontend.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=berkaygurcan&show_icons=true&locale=en&layout=compact&hide=python,java)
-
 
 \
 **Websites:**
